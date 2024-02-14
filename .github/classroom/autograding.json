@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Testing Linked List",
+      "setup": "chmod +x ./test.sh",
+      "run": "./test.sh test_list",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": 0
+    },
+    {
+      "name": "Testing Stack",
+      "setup": "chmod +x ./test.sh",
+      "run": "./test.sh test_stack",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "testing Generic List",
+      "setup": "chmod +x ./test.sh",
+      "run": "./test.sh test_generic_list",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
